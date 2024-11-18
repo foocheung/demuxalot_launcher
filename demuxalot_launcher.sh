@@ -1,3 +1,4 @@
+#Update Nov16th required to be run twice for it to work. Need to debug further
 #!/bin/bash
 #SBATCH --job-name=demuxalot_launcher
 #SBATCH --output=demuxalot_launcher_%j.log
